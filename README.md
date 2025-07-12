@@ -10,3 +10,6 @@
 
 ### Задание 3
 [Оценка Data Encryption at Rest and In Transit](/Task3/evaluation.md)
+
+### Задание 4
+[Оценка узких мест при миграции](/Task4/info.md)
